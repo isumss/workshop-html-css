@@ -1,0 +1,51 @@
+#container{
+    width:970px;
+    margin:0 auto;
+}
+#logo{
+    width: 300px;
+    display: inline;
+    float: left;
+}
+#menu{
+    width: 670px;
+    display: inline;
+    float: right;
+}
+#content{
+    width:700px;
+    display:inline;
+    float:left;
+
+}
+#rMenu{
+    width:270px;
+    display: inline;
+    float:right;
+}
+div.clearboth{
+    clear:both;
+}
+#footer{
+    background: #e6e6e6;
+    color:#000;
+}
+#menu ul li{
+    display:inline;
+}
+#menu ul{
+    background: #000;
+}
+#menu ul li a{
+    color:#fff;
+}
+#menu ul {
+    padding-top:10px;
+    padding-bottom:15px;
+}
+#menu ul li{
+    padding-left:10px;
+}
+#menu ul li a{
+    text-decoration:none;
+}
